@@ -52,7 +52,7 @@ const About = () => {
 
           {/* Interest tags */}
           <div className="flex flex-wrap gap-3 mt-8">
-            {['Digital Circuits', 'Java', 'Antenna Design', 'Python'].map((tag) => (
+            {['Java','SQL', 'Machine Learning', 'Python'].map((tag) => (
               <span
                 key={tag}
                 data-aos="zoom-in"
