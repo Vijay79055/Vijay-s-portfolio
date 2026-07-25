@@ -51,8 +51,7 @@ const Hero = () => {
             data-aos-delay="300"
             className="text-white/70 text-sm md:text-lg font-medium mb-8 max-w-lg leading-relaxed"
           >
-            {personal.role} building practical solutions across digital circuits, embedded systems, and software — from IR-based automation to Python-driven applications.
-          </p>
+            {personal.role} Building practical software solutions with Java, Python, Machine Learning, and data analytics.</p>
 
           <div
             data-aos="fade-up"
